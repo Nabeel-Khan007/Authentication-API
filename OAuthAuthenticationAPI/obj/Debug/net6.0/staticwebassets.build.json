@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vKaxtDYFJToiWgZusFjq2EUP6YGiXKikuxPQRWRX70E=",
+  "Source": "OAuthAuthenticationAPI",
+  "BasePath": "_content/OAuthAuthenticationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
